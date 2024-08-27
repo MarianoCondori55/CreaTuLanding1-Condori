@@ -8,11 +8,11 @@ function NavBar(){
         <nav>
             <ul>
                 <li><a href="#home">Inicio</a></li>
-                <li><a href="#about">Sobre nosotros</a></li>
-                <li><a href="#services">Contacto</a></li>
-                <li><a href="#contact">Servicios</a></li>
+                <li><a href="#pizzas">Pizzas</a></li>
+                <li><a href="#hamburguesas">Hamburguesas</a></li>
+                <li><a href="#empanadas">Empanadas</a></li>
             </ul>
-            <CartWidget/>
+            <CartWidget/> 
         </nav>
     </div>
  )   

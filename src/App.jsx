@@ -10,7 +10,7 @@ function App() {
   return (
     <>
      <NavBar/>
-     <ItemListContainer message="String pasado mediante props"/>
+     <ItemListContainer message="String pasado mediante props aaaaaaaaaaaaaaaa"/>
     </>
   )
 }
